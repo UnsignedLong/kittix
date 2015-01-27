@@ -12,7 +12,7 @@ $height = 400;
 //obvious...
 $fontSize = 17;
 $font_path = '/absolute/path/to/meme.ttf';
-$image = imagecreatefromjpeg('/absolute/path/to/c1.jpg');
+$image = imagecreatefromjpeg('/absolute/path/to/meme.jpg');
 
 
 $jpg_image = imagecreatetruecolor($width, $height);
